@@ -1,7 +1,11 @@
 seyi push
 <<<<<<< HEAD
+<<<<<<< HEAD
 somthing bad is happening
 =======
 somethin else
+>>>>>>> main
+=======
+somethin else is hapenning
 >>>>>>> main
 ken push
