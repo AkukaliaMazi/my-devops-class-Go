@@ -1,3 +1,7 @@
 seyi push
-something sweet is happening
+<<<<<<< HEAD
+somthing sweet is happening
+=======
+somethin else
+>>>>>>> main
 ken push
