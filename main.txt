@@ -1,6 +1,6 @@
 seyi push
 <<<<<<< HEAD
-somthing sweet is happening
+somthing bad is happening
 =======
 somethin else
 >>>>>>> main
