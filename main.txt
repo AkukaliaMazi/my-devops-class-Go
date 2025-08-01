@@ -1,7 +1,3 @@
-seyi push
-<<<<<<< HEAD
-making change
-=======
-making change 2
->>>>>>> Blessing-Branch
+seyi push 
+making change 
 ken pull
