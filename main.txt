@@ -1,5 +1,5 @@
 
 seyi push
 making change
-ken pull
+mazi pull
 
