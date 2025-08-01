@@ -1,3 +1,6 @@
 seyi push
+<<<<<<< HEAD
 this is ine of code is bad
-ken pull
+ken pull stop it
+blessing stop  pushing
+>>>>>>> seyibranch
